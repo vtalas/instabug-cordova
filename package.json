@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Instabug/instabug-cordova"
+    "url": "https://github.com/Instabug/instabug-cordova.git"
   },
   "author": "Instabug <https://instabug.com>",
   "license": "Apache 2.0 License",
